@@ -1,0 +1,38 @@
+[
+	{
+		"id": "nnixt",
+		"name": "Навчально-науковий інститут харчових технологій",
+		"url": "https://nuft.edu.ua/nnixt/",
+		"logo": "https://nuft.edu.ua/assets/images/logotype/nni-xt.jpg"
+	},
+	{
+		"id": "nniti",
+		"name": "Навчально-науковий інженерно-технічний інститут ім. акад. І.С.Гулого",
+		"url": "https://nuft.edu.ua/nniti/",
+		"logo": "https://nuft.edu.ua/assets/images/logotype/nn-iti.jpg"
+	},
+	{
+		"id": "nnieiy",
+		"name": "Навчально-науковий інститут економіки і управління",
+		"url": "https://nuft.edu.ua/nnieiy/",
+		"logo": "https://nuft.edu.ua/assets/images/logotype/nni-eiy.jpg"
+	},
+	{
+		"id": "fakultetbtek",
+		"name": "Факультет біотехнології та екологічного контролю",
+		"url": "https://nuft.edu.ua/fakultet-btek/",
+		"logo": "https://nuft.edu.ua/assets/images/logotype/btek.jpg"
+	},
+	{
+		"id": "fakultetaks",
+		"name": "Факультет автоматизації і комп’ютерних систем",
+		"url": "https://nuft.edu.ua/fakultet-aks/",
+		"logo": "https://nuft.edu.ua/assets/images/logotype/akc.jpg"
+	},
+	{
+		"id": "fakultetgrtb",
+		"name": "Факультет готельно-ресторанного та туристичного бізнесу імені проф. В.Ф.Доценка",
+		"url": "https://nuft.edu.ua/fakultet-grtb/",
+		"logo": "https://nuft.edu.ua/assets/images/logotype/grtb.jpg"
+	}
+]

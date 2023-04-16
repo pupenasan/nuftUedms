@@ -1,0 +1,446 @@
+[
+	{
+		"id": "ktcipv",
+		"name": "Кафедра технології цукру і підготовки води",
+		"url": "https://nuft.edu.ua/nnixt/ktcipv/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kthkv",
+		"name": "Кафедра технології хлібопекарських і кондитерських виробів",
+		"url": "https://nuft.edu.ua/nnixt/kthkv/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktzpz",
+		"name": "Кафедра технології зберігання і переробки зерна",
+		"url": "https://nuft.edu.ua/nnixt/ktzpz/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kbtpbv",
+		"name": "Кафедра біотехнології продуктів бродіння і виноробства",
+		"url": "https://nuft.edu.ua/nnixt/kbtpbv/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktk",
+		"name": "Кафедра технології консервування",
+		"url": "https://nuft.edu.ua/nnixt/ktk/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktmmp",
+		"name": "Кафедра технології м’яса і м’ясних продуктів",
+		"url": "https://nuft.edu.ua/nnixt/ktmmp/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktmlmlp",
+		"name": "Кафедра технології молока і молочних продуктів",
+		"url": "https://nuft.edu.ua/nnixt/ktmlmlp/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktgxtxdks",
+		"name": "Кафедра технології жирів, хімічних технологій харчових добавок та косметичних засобів",
+		"url": "https://nuft.edu.ua/nnixt/ktgxtxdks/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktop",
+		"name": "Кафедра технології оздоровчих продуктів",
+		"url": "https://nuft.edu.ua/nnixt/ktop/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kexp",
+		"name": "Кафедра експертизи харчових продуктів",
+		"url": "https://nuft.edu.ua/nnixt/kexp/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kxx",
+		"name": "Кафедра харчової хімії",
+		"url": "https://nuft.edu.ua/nnixt/kxx/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kpaxv",
+		"name": "Кафедра процесів і апаратів харчових виробництв",
+		"url": "https://nuft.edu.ua/nnixt/kafedra-proczesv-aparatv-xarchovix-virobnicztv/",
+		"logo": "",
+		"facultet": "nnixt",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kmaxfv",
+		"name": "Кафедра машин і апаратів харчових та фармацевтичних виробництв",
+		"url": "https://nuft.edu.ua/nniti/kafedra-maxfv/",
+		"logo": "",
+		"facultet": "nniti",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktoktp",
+		"name": "Кафедра технологічного обладнання та комп’ютерних технологій проектування",
+		"url": "https://nuft.edu.ua/nniti/ktoktp/",
+		"logo": "",
+		"facultet": "nniti",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kmpt",
+		"name": "Кафедра мехатроніки та пакувальної техніки",
+		"url": "https://nuft.edu.ua/nniti/kmpt/",
+		"logo": "",
+		"facultet": "nniti",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktext",
+		"name": "Кафедра теплоенергетики та холодильної техніки",
+		"url": "https://nuft.edu.ua/nniti/ktext/",
+		"logo": "",
+		"facultet": "nniti",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kepem",
+		"name": "Кафедра електропостачання і енергоменеджменту",
+		"url": "https://nuft.edu.ua/nniti/kafedra-elektropostachannya-energomenedzhmentu/",
+		"logo": "",
+		"facultet": "nniti",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "khumd",
+		"name": "Кафедра гуманітарних дисциплін",
+		"url": "https://nuft.edu.ua/nniti/kafedra-gumanitarnyx-dysczyplin/",
+		"logo": "",
+		"facultet": "nniti",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kekip",
+		"name": "Кафедра економіки і права",
+		"url": "https://nuft.edu.ua/nnieiy/kafedra-ep/",
+		"logo": "",
+		"facultet": "nnieiy",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kekteor",
+		"name": "Кафедра економічної теорії",
+		"url": "https://nuft.edu.ua/nnieiy/kafedra-et/",
+		"logo": "",
+		"facultet": "nnieiy",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kmarket",
+		"name": "Кафедра маркетингу",
+		"url": "https://nuft.edu.ua/nnieiy/kafedra-marketyngu/",
+		"logo": "",
+		"facultet": "nnieiy",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kekprac",
+		"name": "Кафедра економіки праці та менеджменту",
+		"url": "https://nuft.edu.ua/nnieiy/kafedra-epm/",
+		"logo": "",
+		"facultet": "nnieiy",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kmizek",
+		"name": "Кафедра міжнародної економіки",
+		"url": "https://nuft.edu.ua/nnieiy/kafedra-me/",
+		"logo": "",
+		"facultet": "nnieiy",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "koblaud",
+		"name": "Кафедра обліку і аудиту",
+		"url": "https://nuft.edu.ua/nnieiy/kafedra-oia/",
+		"logo": "",
+		"facultet": "nnieiy",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kfinanc",
+		"name": "Кафедра фінансів",
+		"url": "https://nuft.edu.ua/nnieiy/kafedra-finansiv/",
+		"logo": "",
+		"facultet": "nnieiy",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kdimmk",
+		"name": "Кафедра ділової іноземної мови та міжнародної комунікації",
+		"url": "https://nuft.edu.ua/nnieiy/kdimmk/",
+		"logo": "",
+		"facultet": "nnieiy",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kfiz",
+		"name": "Кафедра фізики",
+		"url": "https://nuft.edu.ua/fakultet-btek/kafedra-fizyky/",
+		"logo": "",
+		"facultet": "fakultetbtek",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kbiomikro",
+		"name": "Кафедра біотехнології і мікробіології",
+		"url": "https://nuft.edu.ua/fakultet-btek/kafedra-biotexnologii-mikrobiologii/",
+		"logo": "",
+		"facultet": "fakultetbtek",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kekomen",
+		"name": "Кафедра екології та екоменеджменту",
+		"url": "https://nuft.edu.ua/fakultet-btek/kafedra-ebop/",
+		"logo": "",
+		"facultet": "fakultetbtek",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "",
+		"name": "Кафедра фізичного виховання",
+		"url": "https://nuft.edu.ua/fakultet-btek/kafedra-fizkult/",
+		"logo": "",
+		"facultet": "fakultetbtek",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kvmat",
+		"name": "Кафедра вищої математики імені проф. Можара В.І.",
+		"url": "https://nuft.edu.ua/fakultet-aks/kafedra-vyshmat/",
+		"logo": "",
+		"facultet": "fakultetaks",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kaktsu",
+		"name": "Кафедра автоматизації та комп'ютерних технологій систем управління",
+		"url": "https://nuft.edu.ua/fakultet-aks/kafedra-aktsu/",
+		"logo": "",
+		"facultet": "fakultetaks",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kitaikb",
+		"name": "Кафедра інформаційних технологій, штучного інтелекту і кібербезпеки",
+		"url": "https://nuft.edu.ua/fakultet-aks/kafedra-nformaczjnix-sistem/",
+		"logo": "",
+		"facultet": "fakultetaks",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "ktrap",
+		"name": "Кафедра технології ресторанної і аюрведичної продукції",
+		"url": "https://nuft.edu.ua/fakultet-grtb/kafedra-trap/",
+		"logo": "",
+		"facultet": "fakultetgrtb",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kturhb",
+		"name": "Кафедра туристичного та готельного бізнесу",
+		"url": "https://nuft.edu.ua/fakultet-grtb/kafedra-tgb/",
+		"logo": "",
+		"facultet": "fakultetgrtb",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kimps",
+		"name": "Кафедра іноземних мов професійного спрямування",
+		"url": "https://nuft.edu.ua/fakultet-grtb/kafedra-imps/",
+		"logo": "",
+		"facultet": "fakultetgrtb",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	},
+	{
+		"id": "kgotrs",
+		"name": "Кафедра готельно-ресторанної справи",
+		"url": "https://nuft.edu.ua/fakultet-grtb/kafedra-grs/",
+		"logo": "",
+		"facultet": "fakultetgrtb",
+		"signatory": {
+			"fistname": "",
+			"lastname": "",
+			"middlename": ""
+		}
+	}
+]
