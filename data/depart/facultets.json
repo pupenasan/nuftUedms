@@ -27,7 +27,14 @@
 		"id": "fakultetaks",
 		"name": "Факультет автоматизації і комп’ютерних систем",
 		"url": "https://nuft.edu.ua/fakultet-aks/",
-		"logo": "https://nuft.edu.ua/assets/images/logotype/akc.jpg"
+		"logo": "https://nuft.edu.ua/assets/images/logotype/akc.jpg",
+		"signatory": {
+			"position": "декан факультету",
+			"degree": "доцент, кандидат технічних наук",
+			"fistname": "Андрій",
+			"lastname": "Форсюк",
+			"middlename": "Васильович"
+		}
 	},
 	{
 		"id": "fakultetgrtb",

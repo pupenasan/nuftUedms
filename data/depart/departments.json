@@ -376,11 +376,12 @@
 		"name": "Кафедра автоматизації та комп'ютерних технологій систем управління",
 		"url": "https://nuft.edu.ua/fakultet-aks/kafedra-aktsu/",
 		"logo": "",
-		"facultet": "fakultetaks",
 		"signatory": {
-			"fistname": "",
-			"lastname": "",
-			"middlename": ""
+			"position": "Зав. кафедрою",
+			"degree": "доцент, кандидат технічних наук",			
+			"fistname": "Ярослав",
+			"lastname": "Смітюх",
+			"middlename": "Володимирович"
 		}
 	},
 	{
