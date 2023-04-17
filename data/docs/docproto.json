@@ -1,0 +1,18 @@
+{
+	"id": "`${(new Date).valueOf() + '_' + Math.floor((Math.random() * 10000))}`",
+	"name": "Прототип документу",
+	"status": {
+		"version": "new",
+		"valid": false,
+		"dtverif": "",
+		"approve": false,
+		"dtcreate": "`${new Date().toLocaleString('uk-UA',{timeZone: 'Europe/Kiev'})}`",
+		"dtapprove": "",
+		"approve_url": ""
+	},
+	"metadata": {
+		"baseurl": "",
+		"rules": ""
+	},
+	"data": {}
+}
