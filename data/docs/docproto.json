@@ -1,5 +1,5 @@
 {
-	"id": "`${(new Date).valueOf() + '_' + Math.floor((Math.random() * 10000))}`",
+	"id": "`${me.doctype + '_' + (new Date).valueOf() + '_' + Math.floor((Math.random() * 10000))}`",
 	"name": "Прототип документу",
 	"status": {
 		"version": "new",
@@ -8,11 +8,13 @@
 		"approve": false,
 		"dtcreate": "`${new Date().toLocaleString('uk-UA',{timeZone: 'Europe/Kiev'})}`",
 		"dtapprove": "",
-		"approve_url": ""
+		"approve_url": "",
+		"refid":""
 	},
 	"metadata": {
 		"baseurl": "",
-		"rules": ""
+		"rules": "",
+		"doctype": "base"
 	},
 	"data": {}
 }
