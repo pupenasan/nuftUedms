@@ -1,4 +1,7 @@
 {
+	"metadata": {
+		"doctype": "competency"
+	},
 	"data": {
 		"compettype": "basic",
 		"isstandard": false,

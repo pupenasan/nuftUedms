@@ -1,5 +1,5 @@
 {
-	"id": "`${me.doctype + '_' + (new Date).valueOf() + '_' + Math.floor((Math.random() * 10000))}`",
+	"id": "`${me.metadata.doctype + '_' + (new Date).valueOf() + '_' + Math.floor((Math.random() * 10000))}`",
 	"name": "Прототип документу",
 	"status": {
 		"version": "new",
