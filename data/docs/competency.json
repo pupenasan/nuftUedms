@@ -5,6 +5,9 @@
 	"data": {
 		"compettype": "basic",
 		"isstandard": false,
+		"maindeprtment" : "",
+		"mainop": "",
+		"mainstandard": "",
 		"tags": [],
 		"departments": [],
 		"standards": [],

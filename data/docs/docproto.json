@@ -1,6 +1,13 @@
 {
 	"id": "`${me.metadata.doctype + '_' + (new Date).valueOf() + '_' + Math.floor((Math.random() * 10000))}`",
 	"name": "Прототип документу",
+	"signatory": {
+		"position": "ректор",
+		"degree": "професор, доктор технічних наук",
+		"fistname": "Петро",
+		"lastname": "Петренко",
+		"middlename": "Петрович"
+	},
 	"status": {
 		"version": "new",
 		"valid": false,
@@ -9,7 +16,7 @@
 		"dtcreate": "`${new Date().toLocaleString('uk-UA',{timeZone: 'Europe/Kiev'})}`",
 		"dtapprove": "",
 		"approve_url": "",
-		"refid":""
+		"refid": ""
 	},
 	"metadata": {
 		"baseurl": "",
