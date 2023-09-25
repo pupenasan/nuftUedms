@@ -4,7 +4,7 @@
 		"doctype": "competency"
 	},
 	"data": {
-		"compettype": "basic",
+		"compettype": "загальна",
 		"isstandard": false,
 		"maindeprtment": "",
 		"mainop": "",
